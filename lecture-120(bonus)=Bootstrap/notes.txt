@@ -1,0 +1,10 @@
+Bootstrap is a component based website building tool that helps us provide responsive, search engine optimised and beginner friendly websites.
+
+When we put the CDN link of bootstrap in our HTML, it renders CSS that it gets for our program from a web URL. 
+
+The benefit of using bootstrap is that we can directly copy the code and put pre-made components into our code designed by professional programmers who made the bootstrap website.
+
+This is a very easy to do method of making good looking websites in small time.
+
+The best part is all the components are customizable according to use.
+
